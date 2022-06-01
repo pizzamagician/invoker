@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "models/dota_invoker/invoker_base_color1"
+	$bumpmap "models/dota_invoker/invoker_base_normal1"
+	$surfaceprop Metal
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.91 0.91 0.91]"
+	$envmapanisotropy 1
+	$envmapanisotropyscale 0.02
+	$envmapcontrast 0.3
+	$halflambert 1
+	$phong 1
+	$phongexponent 7
+	$phongboost 0.5
+	$phongfresnelranges "[ 3 10 20 ]"
+}

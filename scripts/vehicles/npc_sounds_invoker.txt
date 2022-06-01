@@ -1,0 +1,15 @@
+"DotaInvoker.Laugh"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.650000"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/invoker_laugh_1.wav"
+		"wave"	"player/invoker_laugh_2.wav"
+		"wave"	"player/invoker_laugh_3.wav"
+	}
+}
